@@ -243,5 +243,3 @@ To run the tests, save your test cases in a file (e.g., `test_data_quality.py`) 
 ```bash
 pytest test_data_quality.py
 ```
-
-By following these practices, you can ensure robust data quality checks throughout your ETL process, ensuring that your data is accurate, reliable, and ready for analysis.
